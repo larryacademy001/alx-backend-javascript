@@ -1,4 +1,4 @@
-// Using the prototype below, return a promise. 
+// Using the prototype below, return a promise.
 // The parameter is a boolean.
 export default function getFullResponseFromAPI(success) {
   return new Promise((resolve, reject) => {
